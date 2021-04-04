@@ -1,0 +1,5 @@
+this is also interlink with textfile.txt
+all files are stored in local git
+git is a version controling tool
+it is two types
+centralized and distriuted 
